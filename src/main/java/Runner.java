@@ -6,6 +6,7 @@ public class Runner {
 
         //mustafa değişiklik yaptı
 
+        System.out.println();
 
     }
 
